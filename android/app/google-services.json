@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278096042895",
+    "project_id": "toyota-d70fc",
+    "storage_bucket": "toyota-d70fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278096042895:android:7acf8d770d755d22c8c9fa",
+        "android_client_info": {
+          "package_name": "toyota.com.toyota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278096042895-87qga5ad5vjdoub2gmr3gdv4q8rfkf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqw-zQqWE015nXXjS0he1PnNHgxedImhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278096042895-87qga5ad5vjdoub2gmr3gdv4q8rfkf6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
